@@ -1,0 +1,52 @@
+html {
+    Font-family: Helvetica, Tahoma, Arial, STXihei, “华文细黑”, “Microsoft YaHei”, “微软雅黑”, SimSun, “宋体”, Heiti, “黑体”, sans-serif
+}
+#countdown {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+    color: gold;
+    padding-top: 50px;
+    padding-bottom: 100px;
+  }
+
+body {
+    background-color: black;
+}
+
+#hero {
+    background-image: url("../images/920115.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+#hero-header {
+    color: gold;
+    padding-top: 200px;
+    margin-top: 0px;
+    padding-left: 50px;
+}
+#guild-event-head1 {
+    color: white;
+}
+
+#guild-event-head1 + ul {
+    color: white;
+}
+
+#section-event,
+#section-news {
+    padding-left: 50px;
+}
+
+#news-content {
+    background-color: rgb(48, 47, 47) !important;
+}
+
+#collapseExample,
+#collapseExample1,
+#collapseExample2 {
+    margin-right: 50px !important;
+}
